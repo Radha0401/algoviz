@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/demo.gif" width="100%">
-</p>
 # AlgoViz – Interactive DSA Visualizer
 
 A React app that visualizes **Merge Sort, Quick Sort, BFS, DFS, and Dijkstra's algorithm**
