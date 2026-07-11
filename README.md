@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-A React app that visualizes **Merge Sort, Quick Sort, BFS, DFS, and Dijkstra's algorithm** step-by-step, with live controls for animation speed, array size, and graph density.
 A React app that visualizes **Merge Sort, Quick Sort, BFS, DFS, and Dijkstra's algorithm**
 step-by-step, with live controls for animation speed, array size, and graph density —
 matches the project as described on the resume.
