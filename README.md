@@ -1,5 +1,10 @@
 # AlgoViz – Interactive DSA Visualizer
-
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 A React app that visualizes **Merge Sort, Quick Sort, BFS, DFS, and Dijkstra's algorithm**
 step-by-step, with live controls for animation speed, array size, and graph density —
 matches the project as described on the resume.
