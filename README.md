@@ -56,3 +56,12 @@ npm run dev     # runs on :5175
   reachable), then extra edges are layered on based on the density slider.
 - Dijkstra implemented with a linear-scan "find min unvisited" step (O(V²)) — a natural
   segue into discussing a priority-queue-based O((V+E) log V) version.
+   ---
+## 📬 Contact
+
+If you'd like to connect, collaborate, or discuss opportunities:
+
+- 📧 **Email:** ydv99anil@gmail.com
+- 💻 **GitHub:** https://github.com/Radha0401
+
+Feel free to explore my repositories and reach out for feedback, collaborations, or internship opportunities.
