@@ -57,13 +57,13 @@ npm run dev     # runs on :5175
 - Dijkstra implemented with a linear-scan "find min unvisited" step (O(V²)) — a natural
   segue into discussing a priority-queue-based O((V+E) log V) version.
    ---
-## 📬 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:ydv99anil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ydv99anil%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:yradhaec04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Radha0401">
-    <img src="https://img.shields.io/badge/GitHub-Radha0401-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
